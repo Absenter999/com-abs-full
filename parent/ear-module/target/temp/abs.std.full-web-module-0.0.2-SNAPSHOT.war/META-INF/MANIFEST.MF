@@ -1,0 +1,38 @@
+Manifest-Version: 1.0
+Class-Path: model-0.0.2-SNAPSHOT.jar api-0.0.2-SNAPSHOT.jar persistenc
+ e-api-1.0.2.jar javax.jms-api-2.0.1.jar spring-jms-4.1.6.RELEASE.jar 
+ spring-messaging-4.1.6.RELEASE.jar hibernate-ehcache-4.0.1.Final.jar 
+ ehcache-core-2.4.3.jar slf4j-api-1.6.1.jar spring-web-4.1.6.RELEASE.j
+ ar spring-aop-4.1.6.RELEASE.jar aopalliance-1.0.jar spring-beans-4.1.
+ 6.RELEASE.jar spring-context-4.1.6.RELEASE.jar spring-core-4.1.6.RELE
+ ASE.jar commons-logging-1.2.jar spring-webmvc-4.1.6.RELEASE.jar sprin
+ g-expression-4.1.6.RELEASE.jar spring-jdbc-4.1.6.RELEASE.jar spring-t
+ x-4.1.6.RELEASE.jar spring-orm-4.1.6.RELEASE.jar h2-1.4.198.jar hiber
+ nate-core-4.1.6.Final.jar antlr-2.7.7.jar jboss-logging-3.1.0.GA.jar 
+ jboss-transaction-api_1.1_spec-1.0.0.Final.jar dom4j-1.6.1.jar hibern
+ ate-jpa-2.0-api-1.0.1.Final.jar javassist-3.15.0-GA.jar hibernate-com
+ mons-annotations-4.0.1.Final.jar hibernate-entitymanager-4.1.6.Final.
+ jar abs.std.full-api-0.0.2-SNAPSHOT.jar javax.persistence-persistence
+ -api-1.0.2.jar javax.jms-javax.jms-api-2.0.1.jar org.springframework-
+ spring-jms-4.1.6.RELEASE.jar org.springframework-spring-aop-4.1.6.REL
+ EASE.jar aopalliance-aopalliance-1.0.jar org.springframework-spring-b
+ eans-4.1.6.RELEASE.jar org.springframework-spring-context-4.1.6.RELEA
+ SE.jar org.springframework-spring-core-4.1.6.RELEASE.jar commons-logg
+ ing-commons-logging-1.2.jar org.springframework-spring-messaging-4.1.
+ 6.RELEASE.jar org.springframework-spring-tx-4.1.6.RELEASE.jar org.spr
+ ingframework-spring-web-4.1.6.RELEASE.jar org.springframework-spring-
+ webmvc-4.1.6.RELEASE.jar org.springframework-spring-expression-4.1.6.
+ RELEASE.jar org.springframework-spring-jdbc-4.1.6.RELEASE.jar org.spr
+ ingframework-spring-orm-4.1.6.RELEASE.jar com.h2database-h2-1.4.198.j
+ ar org.hibernate-hibernate-core-4.1.6.Final.jar antlr-antlr-2.7.7.jar
+  org.jboss.logging-jboss-logging-3.1.0.GA.jar org.jboss.spec.javax.tr
+ ansaction-jboss-transaction-api_1.1_spec-1.0.0.Final.jar dom4j-dom4j-
+ 1.6.1.jar org.hibernate.javax.persistence-hibernate-jpa-2.0-api-1.0.1
+ .Final.jar org.javassist-javassist-3.15.0-GA.jar org.hibernate.common
+ -hibernate-commons-annotations-4.0.1.Final.jar org.hibernate-hibernat
+ e-entitymanager-4.1.6.Final.jar org.hibernate-hibernate-ehcache-4.0.1
+ .Final.jar net.sf.ehcache-ehcache-core-2.4.3.jar org.slf4j-slf4j-api-
+ 1.6.1.jar
+Build-Jdk-Spec: 1.8
+Created-By: Maven Archiver 3.4.0
+
