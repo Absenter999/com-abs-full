@@ -3,13 +3,10 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>abs.std.full</groupId>
 	<artifactId>parent</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
-	<packaging>pom</packaging>
 	<name>Archetype - parent</name>
+	<packaging>pom</packaging>
+	<version>0.0.2-SNAPSHOT</version>
 	<url>http://maven.apache.org</url>
-
-
-
 
 	<properties>
 		<maven.compiler.target>1.8</maven.compiler.target>
